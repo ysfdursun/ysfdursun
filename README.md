@@ -1,33 +1,22 @@
-## Hi there 👋
-
-<!--
-**ysfdursun/ysfdursun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Merhaba, Ben Ahmet 👋
 
 Full-stack geliştirici olarak modern web teknolojileri ile ölçeklenebilir uygulamalar geliştiriyorum.
+
+## 💼 Şu Anda
+
+**Software Development Intern** @ AdresGezgini A.Ş.  
+PHP ve CodeIgniter ile web uygulaması geliştirme süreçlerine katkı sağlıyorum.
 
 ## 🛠️ Teknolojiler
 
 **Frontend**
 ```
-JavaScript • TypeScript • React • HTML5 • CSS3
+JavaScript • React • HTML5 • CSS3
 ```
 
 **Backend**
 ```
-PHP • Python
+PHP • Python • CodeIgniter
 ```
 
 **Veritabanı**
@@ -37,8 +26,15 @@ MySQL • PostgreSQL
 
 **Araçlar**
 ```
-Git • Docker • VS Code
+Git • GitHub • VS Code • InsightFace
 ```
+
+## 🚀 Öne Çıkan Projeler
+
+### 🎭 Celebrity / Video Face Recognition
+- Python ve InsightFace kullanarak yüz tanıma sistemi geliştirdim
+- Video tabanlı yüz eşleştirme ve analiz
+- Computer vision ve image processing uygulamaları
 
 ## 📊 GitHub İstatistikleri
 
@@ -46,11 +42,21 @@ Git • Docker • VS Code
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ysfdursun&layout=compact&theme=default&hide_border=true)
 
+## 🎯 İlgi Alanları
+
+- Web Development
+- Computer Vision
+- Data Processing
+- SEO & Web Optimization
+
 ## 🔗 Bağlantılar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/PROFILINIZ](https://www.linkedin.com/in/ahmet-yusuf-dursun-b08851277/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-yusuf-dursun-b08851277/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ydursun123@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ysfdursun)
 
 ---
 
-💼 İşbirliği ve proje fırsatları için her zaman açığım.
+🎓 Manisa Celal Bayar Üniversitesi - Bilgisayar Mühendisliği  
+📍 İzmir, Türkiye  
+💼 İşbirliği ve proje fırsatları için her zaman açığım
