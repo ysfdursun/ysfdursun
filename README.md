@@ -27,7 +27,7 @@ JavaScript • TypeScript • React • HTML5 • CSS3
 
 **Backend**
 ```
-Node.js • PHP • Python • RESTful API
+PHP • Python
 ```
 
 **Veritabanı**
