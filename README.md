@@ -4,16 +4,6 @@ Full-stack geliştirici olarak modern web teknolojileri ile ölçeklenebilir uyg
 
 ---
 
-## 💼 Şu Anda
-
-**Software Development Intern** @ AdresGezgini A.Ş.  
-
-PHP ve CodeIgniter ile web uygulaması geliştirme süreçlerine katkı sağlıyorum.
-
----
-
-## 🛠️ Teknolojiler & Araçlar
-
 ## 🛠️ Teknolojiler & Araçlar
 
 <table>
