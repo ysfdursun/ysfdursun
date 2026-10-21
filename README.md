@@ -1,7 +1,4 @@
 # Merhaba, Ben Ahmet 👋
-
-Full-stack geliştirici olarak modern web teknolojileri ile ölçeklenebilir uygulamalar geliştiriyorum.
-
 ---
 
 ## 🛠️ Teknolojiler & Araçlar
